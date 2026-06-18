@@ -34,7 +34,7 @@ BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
 # Telegram user IDs of guild admins/officers
 ADMIN_IDS = [
     123456789,   # replace with real Telegram user IDs
-    # 987654321,
+948310464,
 ]
 
 DB_PATH = "guild.db"
